@@ -1,0 +1,1 @@
+Pindahkan ke folder xampp/htdocs/disini
